@@ -26,6 +26,8 @@ common:
     url: https://www.linkedin.com/company/i-flow-corporation
   - type: Website
     url: http://iflowinc.com/
+  - type: LLMsTxt
+    url: https://iflowinc.com/llms.txt
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
