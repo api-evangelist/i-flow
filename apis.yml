@@ -22,12 +22,16 @@ modified: '2026-04-28'
 specificationVersion: '0.19'
 apis: []
 common:
+  - type: DomainSecurity
+    url: security/i-flow-domain-security.yml
   - type: LinkedIn
     url: https://www.linkedin.com/company/i-flow-corporation
   - type: Website
     url: http://iflowinc.com/
   - type: LlmsText
     url: https://iflowinc.com/llms.txt
+  - url: https://www.iflowinc.com/blog-feed.xml
+    type: Blog
 maintainers:
   - FN: Kin Lane
     email: kin@apievangelist.com
